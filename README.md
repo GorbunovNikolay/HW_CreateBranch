@@ -1,12 +1,12 @@
 # Домашние задания по курсу «Git - система контроля версий»
 
-1. [Внедрение системы контроля версий](introduction/)
-1. [История и работа с ветками](branch/)
-1. [Командная работа](remote/)
+1. [Внедрение системы контроля версий](https://github.com/netology-code/git-homeworks/tree/master/introduction)
+1. [История и работа с ветками](https://github.com/netology-code/git-homeworks/tree/master/branch)
+1. [Командная работа](https://github.com/netology-code/git-homeworks/tree/master/remote)
 
 Вам может пригодиться [руководство по работе в терминале](https://github.com/netology-code/guides/blob/master/git-terminal/git-terminal.md).
 
-1. [Самостоятельное задание. «Создание репозитория на Github»](self/)
+1. [Самостоятельное задание. «Создание репозитория на Github»](https://github.com/netology-code/git-homeworks/tree/master/self)
 
 ## Важно
 
